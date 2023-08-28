@@ -6,7 +6,6 @@ Table of Contents
 1. Installation
 2. How-to-use
 3. Credits
-4.
 
 1. INSTALLATION
   1.1 Download the relevant files from GitHub, namely; inventory.py, inventory.txt, and new_inventory.txt
