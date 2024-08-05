@@ -1,7 +1,7 @@
 from tabulate import tabulate # Import the tabulate function from the tabulate class
 #========The beginning of the class==========
 class Shoe:
-
+# this is the difference
     # A constructor that will define the class object with the following attributes.
     def __init__(self, country, code, product, cost, quantity):
         self.country = country
